@@ -1,0 +1,1953 @@
+[[
+]]
+
+
+MINISTÉRIO DA INDÚSTRIA, DESENVOLVIMENTO E COMÉRCIO EXTERIOR - MIDC   SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS - SUFRAMA   SUPERINTENDÊNCIA ADJUNTA DE OPERAÇÕES - SAO   COORDENAÇÃO -GERAL DE CONTROLE DE MERCADORIAS E CADASTRO – CGMEC 
+[[
+
+
+NOVO PROCESSO DE INTERNAMENTO DE MERCADORIAS NACIONAIS   SISTEMA DE CONTROLE DE INGRESSO DE MERCADORIAS NACIONAIS -  SINAL      PASSO A PASSO   COM AS PRINCIPAIS PERGUNTAS E RESPOSTAS PARA UTILIZAÇÃO DO   NOVO SISTEMA WS SINAL / SINAL 6.0 E PARA GERAÇÃO DO PIN   (PROTOCOLO DE INGR ESSO DE MERCADORIA NACIONAL) DA SUFRAMA   Atualizado em: 27/01/2009    MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO EXTERIOR   Superintendência da Zona Franca de Manaus – SUFRAMA   Superintendência   Adjunta de Operações – SAO   Coordenação Geral de Controle  de Mercadoria e Cadastro - CGMEC   Av. Ministro João Gonçalves, S/N - Distrito Industrial   CEP 69075 -830 / Manaus - AM  (92) 3182 -1513 – cgmec@suframa.gov.br 
+]]
+
+
+Administração :
+[[
+
+
+Flávia Skrobot Barbosa Grosso   Superinte ndente da Zona Franca de Manaus 
+]]
+
+
+Everaldo Luiz Bonfim Fernandez   Superintendente Adjunto de Operações 
+[[
+
+
+João Carlos Paiva da Silva   Coordenador -Geral de Controle de Mercadorias e Cadastro 
+]]
+
+
+Eduardo Lincoln Nobre Sena   Coordenador de Análise Documental 
+[[
+
+
+Maria do  Carmo Oliveira Garcia   Coordenadora de Internamento 
+]]
+
+
+Roberval de Souza Nascimento   Coordenador de Vistorias 
+[[
+
+
+Maria Izamar Martins Frazão   Coordenadora de Cadastro 
+]]
+
+
+Pesquisa e Elaboração:   Equipe: CGMEC 
+[[
+
+
+
+
+
+
+
+
+
+
+Copyright © - Janeiro/ 2009  MÓDULO REMETENTE 
+]]
+
+
+Escolha uma das opções  abaixo para acessar os Procedimentos  passo a  passo.   1. INTRODUÇÃO: O que é a SUFRAMA?   2. Quais as áreas de atuação da SUFRAMA e seus incentivos fiscais?   3. Quais mercador ias pr ecisam d e PIN?   4. Como funciona o processo de internamento de mercadorias nas áreas   incentivadas?   5. O que é WS SINAL / SINAL 6.0?   6. Quais são minhas responsabilidades como fornece dor (remetente)?   7. Como consigo me cadastrar no WS SINAL, para gerar o PIN?   8. Como acesso o WS SINAL?   9. Estou com problemas com meu login e senha. O que faço?   10. Como desbloquear minha senha ou cadastrar nova senha?   11. Como posso alterar meus dados cadastrais?   12. Como consultar a situação do cliente na página da SUFRAMA?   13. Existe uma consulta automática da situação do meu cliente, para incluir   no meu sistema próprio?   14. O que fazer se o cliente não estiver habilitado ou não possuir cadastro?   Posso gerar o PIN?   15. O que é o arquivo XML  da SUFRAMA e como pode ser gerado?   16. Para que serve o SINAL 6.0?   17. Como consigo realizar o download o software SINAL 6.0?   18. Como usar o SINAL 6.0 para gerar lote (arquivo XML )?  19. Existe uma forma de gerar o arquivo XML a partir do meu sistema   próprio, evitando digitação?   20. Como gerar o PIN?   21. Como consultar e imprimir o PIN?   22. Depois que gerei o PIN, o que devo fazer?   23. Como gerar o PIN sem informar quem é o transportador?   24. Como cancelar um PIN gerado?   25. Como alterar um PIN gerado?   26. Como editar um lote para correção / alteração de dados?   27. Como cancelar um lote que foi importado para o WS SINAL, mas o PIN   Não foi gerado?   28. Como alterar o transportador indicado n o PIN?   29. Como obter ajuda e suporte?   30. Descrição de Rotinas do WS SINAL.   31. Descrição de Rotinas de Consultas Online para o Remetente.   32. PRINCIPAIS M ENSAGENS DE ERRO E PROBLEMAS, COM SUAS   SOLUÇÕES. 
+[[
+
+
+Mais dúvidas? FAQ Online disponível em:   http://www.suframa.gov.br/suframa_faleconosco.cfm   Caso sua dúvida não tenha sido esclarecida com esse material, entre em Contato  com duvidassinal@suframa.gov.br , identificando -se com nome, empresa, e -mail e  telefone para  contato.    1. INTRODUÇÃO: O que é a SUFRAMA?   (Fonte: http://www.suframa.gov.br/suframa_oqueesuframa.cfm )
+]]
+
+
+A Superintendência da Zona Franc a de Manaus (SUFRAMA) é uma Autarquia  vinculada  ao Ministério do Desenvolvimento, Indústria e Comércio Exterior que é  responsável por  administrar a Zona Franca de Manaus, Áreas de Livre Comércio e  demais cidades da  Amazônia Ocidental (es tados do AM, AC, RO , RR e as ci dades  de Macapá e Santana, no  AP), com a responsabilidade de construir um modelo de  desenvolvimento regional que utilize  de forma sustentável os recursos naturais,  assegurando viabilidade econômica e melhoria da  qualidade de vida das populações   locais.   Em 40 anos de existência, a Suframa viabilizou a implantação dos três pólos que   Compõem  a ZFM - comercial industrial  e agropecuário - e promove a interiorização  do desenvolvimento por todos os estados da área de abrangência do modelo,  identificand o oportunidades de negócios e atrai investimentos para a região tanto  para o Pólo Industrial de  Manaus quanto para os demais setores econômicos da sua  área de atuação.   Com recursos arrecadados com a prestação de serviço das empresas beneficiadas  com os inc entivos fiscais do modelo ZFM, a Suframa faz parcerias com governos  estaduais e  municipais, instituições de ensino e pesquisa e cooperativas, financia  projetos de apoio à infra-estrutura econômica, produção, turismo, pesquisa &  desenvolvimento e de formaçã o de capital  intelectual. O objetivo é minimizar o custo  amazônico, ampliar a produção de bens e serviços  voltados à vocação regional e,  ainda, capacitar, treinar e qualificar trabalhadores. 
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+2. Quais as áreas de atuação da SUFRAMA e seus incentivos  fiscais? 
+[[
+
+
+ 1. ICMS e/ou IPI e PIS/COFINS 
+]]
+
+
+2. Amazonas:  Municípios de Manaus, Rio Preto da Eva ;     3. Amazonas : Município de Tabatinga (Área de Livre Comércio); 
+[[
+
+
+4. Acre : Municípios de Brasiléia, Epitaciolân dia e Cruzeiro do Sul (Áreas de  Livre  Comércio );
+]]
+
+
+5. Amapá : Municípios de Macapá e Santana (Áreas de Livre Comércio); 
+[[
+
+
+6. Rondônia : Município de Guajará -Mirim (Área de Livre Comércio); 
+]]
+
+
+7. Roraima : Municípios de Boa vista  e Bonfim (Áreas de Livre Comércio) .
+[[
+
+
+8. ICMS e/ou IPI 
+]]
+
+
+a. Amazonas : Município de Presidente Figueiredo 
+[[
+
+
+9. Somente IPI 
+]]
+
+
+a. Amazônia Ocidental (demais cidades dos estados do AM, AC, RO e RR); 
+[[
+
+
+Observações:   Benefício do ICMS: Somente para comercialização e industrialização;   Benefícios do IPI, PIS e COFINS: Para remessas de comercialização,  industrialização e uso  e consumo. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+3. Quais mercadorias nacionais precisam ser controladas pela  SUFRAMA  (precisam de PIN)? 
+]]
+
+
+Conforme art. 1 da Portaria  SUFRAMA n.º 529/2006, todas as mercadorias  nacionais que  ingressam nos estados do AM, AC, RO, RR e nas cidades de Macapá  e Santana, no AP,  devem passar pelo controle da SUFRAMA, com a geração do  PIN:
+[[
+
+
+"Art.1º Toda entrada de mercadoria nacional para Zona Franca de Manaus, Áreas de  Livre  Comércio e Amazônia Ocidental fica sujeita ao controle e fiscalização da  Suframa que  desenvolverá ações para atestar o ingresso físico da mercadoria e o  seu internamento na área  incentivada." 
+]]
+
+
+A exceção geral é para os caso s nos quais o cliente (destinatário) não possui  inscrição  SUFRAMA, ou não está habilitado na data de emissão da nota fiscal,  conforme Art. 2, §2º:  
+[[
+
+
+"A geração do PIN, pelo SINAL, somente se processará para empresa destinatária  cadastrada  e devidamente hab ilitada na Suframa, levando em consideração a data  de emissão da nota  fiscal."  CASOS ESPECÍFICOS NOS QUAIS FICA DISPENSADA A GERAÇÃO DO PIN  (Nesta  primeira fase de implementação do WS SINAL): 
+]]
+
+
+1. Remessas para empresas sem Inscrição SUFRAMA; 
+[[
+
+
+a. OBS.: Neste c aso, a empresa fornecedora não deve conceder os benefícios   fiscais da área de destino. 
+]]
+
+
+2. Remessas para empresa com Inscrição SUFRAMA não habilitada ;
+[[
+
+
+a. OBS.: Neste caso, a empresa fornecedora não deve conceder os benefícios   fiscais da área de destino. 
+]]
+
+
+3. Notas fiscais de Prestação de Serviços; 
+[[
+
+
+a. OBS.: Notas fiscais mistas, que acobertem remessas de venda e prestação  de serviços, devem ser internadas, sendo emitido o PIN. 
+]]
+
+
+4. Remessas de mercadorias para pessoas físicas, pois não possuem cadastro na   SUFRAMA; 
+[[
+
+
+5. Quando a nota fiscal tiver sido emitida para acobertar embalagem ou vasilhame  que acompanha a mercadoria e retorna após o ingresso, não permanecendo na área  de incentivo fiscal; 
+]]
+
+
+6. Nota fiscal emitida pra fins de complemento de preço; 
+[[
+
+
+7. Remessas em  comodato ou consignação, nas quais a mercadoria ingressa, mas  não permanece na área, ocorrendo retorno à origem antes de completar 60 dias a  partir de  data de emissão da nota fiscal;   a. OBS.: Caso a mercadoria permaneça na área além do prazo previsto na   legislação, deverá ser realizado o internamento, com sua respectiva nota fiscal   de venda. 
+]]
+
+
+8. Notas fiscais cuja natureza da operação seja retorno de conserto; 
+[[
+
+
+9. Notas fiscais cuja natureza de operação seja devolução de mercadoria que saiu  da área Incenti vada e está sendo devolvida pelo cliente; 
+]]
+
+
+Neste momento, tendo em vista que o destinatário não tem Inscrição SUFRAMA ou  não está habilitado, não é necessário o PIN, porque ele só gerado para empresas  com Inscrição  SUFRAMA e que estejam habilitadas, Entret anto, os produtos quando  remetidos para a região  incentivada devem ser internados conforme os controles da  SUFRAMA. Ademais, destacamos  que, posteriormente, o PIN da SUFRAMA será  instituído como um Passe Fiscal que deverá ser  emitido na origem da mercadori a, e  deverá acompanhá -la durante o trânsito interestadual até a  área de destino.  Portanto, recomendamos, desde agora, que a as empresas iniciem o uso do   Sistema WS SINAL, para garantia e segurança de suas operações com as regiões   incentivadas, pois o PIN s erá exigido pelas administrações tributárias estaduais e  federais por  onde transitar a mercadoria.   As empresas destinatárias que queriam trabalhar com maior controle e segurança  de suas  remessas e que queriam usufruir dos benefícios fiscais que as áreas incentivadas dão direito,  deverão cadastrar -se na SUFRAMA e acompanhar para  que suas inscrições estejam sempre  em situação regular (habilitadas). 
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+4. Como funciona o processo de internamento de mer cadorias nas  áreas  incentivadas ?
+[[
+
+
+O controle do ingresso físico da mercadoria nas áreas incentivadas (fase I) e a  formalização do  internamento (fase II) são realizados através da transmissão prévia  ao ingresso nas Áreas  Incentivadas, dos dados pertinentes aos documentos fiscais,  via Sistema de Controle de  Ingresso de Mercadoria Nacional – SINAL, da SUF  RAMA, conforme os seguintes   procedimentos: 
+]]
+
+
+1. Geração, na origem, do Protocolo de Ingresso de Mercadoria Nacional – PIN, sob  responsabilidade do estabelecim ento emitente da nota fiscal, após a validação  da  situação cadastral da empresa destinatária na SUFRAMA; 
+[[
+
+
+2. Associação ao PIN, antecipadamente ao ingresso na área incentivada, dos  dados  do conhecimento de transporte e manifesto de carga, sob responsabilid ade do  transportador; 
+]]
+
+
+3. Apresentação à SUFRAMA (pelo transportador) de do PIN, 1ª e 5ª vias da nota   fiscal (ou cópia do Documento Auxiliar da Nota Fiscal Eletrônica – DANFE), do   conhecimento de transporte (o u cópia do Documento Auxiliar d e Conhecimento d e  Transporte Eletrônico – DACTE), e o manifesto de carga, para fins de recepção,   conferência documental prévia e vistoria da mercadoria ingressada; 
+[[
+
+
+4. Autenticação ou chancela do PIN pela SUFRAMA; 
+]]
+
+
+5. Análise e conferência documental complementar para ver ificação e validação dos   dados transmitidos via WS SINAL, com a documentação fiscal; 
+[[
+
+
+6. Cruzamento de dados com órgãos fiscais, no caso em que se aplicar; 
+]]
+
+
+7. Emissão da comprovação do ingresso da mercadoria; 
+[[
+
+
+8. Pagamento da Taxa de Serviço Administrativ o – TSA, gerada pela SUFRAMA, e   confirmação do recebimento da mercadoria pela empresa destinatária. 
+]]
+
+
+A transmissã o prévia e a emissão do PIN via  SINAL, conforme descrito acima, é de   responsabilidade do estabelecimento emissor da nota fiscal, sendo facultad o  autorizar a  terceiros, não eximindo o estabelecimento cedente de sua  responsabilidade.   Clique aqui para voltar às opções 
+[[
+
+
+5. O que é WS SINAL / SINAL 6.0?    O Sistema de Controle de Ingresso de Mercadoria Nacional - SINAL é um si stema  que tem  como finalidade permitir que as empresas (remetentes e transportadoras)  antecipem, por meio  de envio de arquivo eletrônico, os dados da documentação  fiscal (nota fiscal, conhecimento de  transporte e manifesto de carga) para registro,  vistoria , análise documental e internamento das  notas fiscais que acobertam  mercadorias com destino à Amazônia Ocidental e para a Área de  Livre Comércio de  Macapá e Santana/AP, para que a SUFRAMA possa realizar o controle das   remessas de mercadorias nacionais que ingressam nestas áreas .
+]]
+
+
+As principais funcionalidades do SINAL são: 
+[[
+
+
+- Servir de plataforma de entrada de dados da documentação fiscal;   - Realizar a validação de dados da documentação fiscal enviada para a SUFRAMA;   - Gerar o PIN, formalizando o recebiment o e a validação dos dados da  documentação  fiscal enviada para a SUFRAMA; 
+]]
+
+
+A nova versão do SINAL está divida em duas interfaces: web (WS SINAL) e desktop    (SINAL 6.0):
+[[
+
+
+- A Web  Service SINAL (WS SINAL) ou Portal de Mercadoria Nacional (PMN) está   dividido e m três módulos principais: Remetente, Transportador e Destinatário.   - O SINAL 6.0 é o software utilizado pelas empresas remetentes para geração do   arquivo XML (e geração do PIN) com os dados das notas fiscais a serem enviadas  à  áreas incentivadas, e pelas empresas transportadoras, para geração do arquivo   XML com as informações do conhecimento de transporte e manifesto de carga,  que  serão associadas ao PIN gerado pelo remetente, para apresentação à  SUFRAMA. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+6. Quais são minhas responsabilidades como fornecedor  (remetente )?
+]]
+
+
+- Verificar a situação cadastral do cliente junto à SUFRAMA ;
+[[
+
+
+o Gerar arquivo XML com os dados da nota(s) fiscal; 
+]]
+
+
+o  Importar o arquivo para o WS SINAL; 
+[[
+
+
+o Gerar o PIN; 
+]]
+
+
+o Informar ao  transportador o número do PIN gerado para as notas fiscais   transmitidas, no  Momento  da saída da mercadoria e da nota fiscal; 
+[[
+
+
+o Acompanhar o trâmite do PIN e a situação da nota fiscal até a conclusão do 
+]]
+
+
+o Internamento (emissão da Declaração de Ingresso), por  meio da rotina “ PIN”  do WS  SINAL e das “ Consultas Online ” (disponíveis no menu de serviços do  Portal SUFRAMA).    Clique aqui para voltar às opções 
+[[
+
+
+7. Como consigo me cadastrar no WS SINAL, para gerar o PIN? 
+]]
+
+
+1. Acessar o menu de se rviços do Portal SUFRAMA: 
+[[
+
+
+http://www.suframa.gov.br/servicos.cfm 
+]]
+
+
+2. Selecionar a opção WS SINAL – CADASTRO DE REMENTENTE: 
+[[
+
+
+http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/prepararCadastrarRem etenteAction.do?metodo=preparar 
+]]
+
+
+3. Preencher o formulário e salvar as informações; 
+[[
+
+
+Observações: 
+]]
+
+
+• Todos os campos com * são de preenchi mento obrigatório;   • O login do usuário será seu CNPJ e sua senha foi escolhida pela empresa no  momento  do cadastro;   • Qualquer alteração nos dados cadastrais da empresa deverá ser solicitada pelo e - mail cadastrowssinal@suframa.gov.br ;  • Não será necessári o enviar à SUFRAMA nenhum documento para realizar  desbloqueio  de cadastro do fornecedor, pois o acesso é liberado imediatamente  após salvar os  dados no formulário de cadastro;   • Caso o usuário encontre problemas ao tentar acessar com seu login e senha, dev e  seguir os procedimentos publicados em - Solução de Problemas com Login e Senha ,  no menu de Serviços do Portal SUFRAMA .
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+8. Como acesso o WS SINAL? 
+[[
+
+
+Todos os links de acesso ao WS SINAL estão di sponíveis no menu de Serviços do  Portal   SUFRAMA :  1. Acessar o Portal SUFRAMA: http://www.suframa.gov.br ;  2. Acessar o menu de Serviços: http://www.suframa.gov.br/servicos.cfm   3. Selecionar a opção WS SINAL ou - WS SINAL Remetente - Acesse aqui o  Sistema :  http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/ 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+9. Estou com problemas com meu login e senha. O que faço?    Ao tentar acessar o WS SINAL alguns usuários podem deparar -se com uma  mensagem de  erro de login e senha. Nestes casos, a empresa deverá seguir os  procedimentos de solução de  problemas com login e senha, disponíveis no menu de  Serviços do Portal SUFRAMA :
+]]
+
+
+1. Acessar o Portal SUFRAMA: http://www.suframa.gov.br ;  2. Acessar o menu de Serviços: http://www.suframa.gov.br/servicos.cfm   3. Selecionar a opção - Solução de Problemas com Login e Senha :  http://www.suframa.gov.br/servicos_wssinal_senhas.cfm 
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+10. Como desbloquear minha senha ou cadastrar nova senha? 
+[[
+
+
+1. Acessar o Sistema de Cadastro da SUFRAMA, no link   https://servicos.suframa.gov.br/servicos/ ;
+]]
+
+
+2. No formulário "SERVIÇOS E CONSULTAS RESTRITAS ", entre com o login  (CNPJ,  sem pontos e barras) e clique no botão "ENTRAR" três vezes, até que  apareça a  mensagem "Usuário Bloqueado. Pa ra iniciar o desbloqueio Clique Aqui."; 
+[[
+
+
+3. Clique no link "CLIQUE AQUI" e você entrará na tela de "Liberação de senha   Temporária” ;
+]]
+
+
+4. Solicite o envio de uma senha temporária clicando em "LIBERAR SENHA   TEMPORÁRIA". Dentro de poucos segundos chegará uma n ova senha no e -mail da   empresa que foi cadastrado na SUFRAMA. 
+[[
+
+
+5. Após receber o e -mail com a senha da SUFRAMA, você deverá acessar  novamente o  Formulário  contido no link https://servicos.suframa.gov.br/servicos/ , e  então entrar com  Seu login e a senha tem porária que foi recebida no e -mail; 
+]]
+
+
+6. Siga os passos da tela para trocar a senha temporária por uma senha de sua  escolha, e  então você estará novamente liberado para acessar o WS SINAL e o  sistema de  Consultas Online. 
+[[
+
+
+OBSERVAÇÕES:   • Para que este proced imento funcione, é necessário que você tenha informado um  e-mail válido  no cadastro do WS SINAL;   • Se o procedimento não funcionar, entrar em contato com o a Equipe de  Atendimento da  Coordenação de Análise Documental – CODOC, pelos e -mails  cadastrowssinal@ suframa.gov.br ou codoc@suframa.gov.br ;  • Caso o e -mail da empresa não esteja correto no cadastro, o usuário poderá efetuar  a alteração  seguindo os procedimentos do passo seguinte. 
+]]
+
+
+Clique aqui para voltar às opções  11. Como  poss o alterar meus dados cadastrais ?
+[[
+
+
+Nos casos em que o usuário precise mudar o e -mail, por exemplo, para receber a  senha temporária, além de alterar o e -mail, poderá também inserir a nova senha  para que tenha acesso imediato ao sistema.   1. Acesse o link:  http://portal.suframa.gov.br/PMNRecEViewController/   2. Clique na opção “Alterar os dados do Remetente” na tela de Autenticação do  Sistema WS Sinal. 
+]]
+
+
+3. Passo: Informe os seguintes dados:   CNPJ do Remetente:  CNPJ da Empresa que deseja realizar a alteração.   Número  Nota Fiscal:  Informe o número da última Nota Fiscal importada para base  da SUFRAMA. Se o lote possuir mais de uma, informar qualquer nota deste lote.   Data de Emissão:  Data de Emissão da Nota Fiscal.   CNPJ do Destinatário:  CNPJ do Destinatário da Nota Fisca l.  4. Clique no botão “Validar ”. Se os dados estiverem corretos o sistema abrirá a tela  de cadastro para que as alterações sejam realizadas.   5. O usuário faz as alterações necessárias, inclusive justifica esta alteração e clica  no botão “Salvar”. Se todos os dados estiverem corretos, o sistema mostrará uma  tela de sucesso. 
+[[
+
+
+6. Caso desista da alteração clique no botão Cancelar. O Sistema retornará para a  tela de validação sem realizar qualquer alteração. 
+]]
+
+
+Clique aqui para voltar às opçõe s
+[[
+
+
+12. Como consultar a situação do cliente na página da SUFRAMA? 
+]]
+
+
+1. Acessar o menu de serviços do Portal SUFRAMA: 
+[[
+
+
+http://www.suframa.gov.br/servicos_wssinal_orientacoes.cfm 
+]]
+
+
+2. Sel ecionar a opção CONSULTAR SITUAÇÃO CADASTRAL DE EMPRESAS   DESTINATÁRIAS: 
+[[
+
+
+https://servicos.suframa.gov.br/servicos/ 
+]]
+
+
+3. Clicar no botão ENTRAR, da seção de SE RVIÇOS E CONSULTAS PÚBLICAS   (não requer log in e senha); 
+[[
+
+
+4. Selecionar a opção CONSULTAR SITUAÇÃO CADASTRAL – EXC.  FORNECEDOR;    5. Informar o CNPJ do destinatário e clicar em AVANÇAR; 
+]]
+
+
+6. Selecionar a inscrição SUFRAMA da empresa, clicando sobre seu número; 
+[[
+
+
+7. Verificar a situação cadastral da emp resa ao final do formulário de resumo do  cadastro da  empresa, bem como os benefícios aos quais tem direito. 
+]]
+
+
+Observações: 
+[[
+
+
+• O fornecedor não poderá conceder os descontos dos benefícios fiscais ao   destinatário  caso o cliente não esteja habilitado;   • Fica d ispensada a geração do PIN para clientes não habilitados ou não  cadastrados;   • O fornecedor não poderá emitir a nota fiscal com benefícios fiscais para o cliente  não habilitado, pois o PIN não poderá ser gerado mesmo após a regularização. A  nota fiscal  então deverá ser faturada sem os descontos e seguirá sem o PIN. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+13. Existe uma consulta automática da situação do meu cliente,   para incluir  no meu sistema próprio? 
+]]
+
+
+Encontra -se disponível um servi ço de internet (Web Service do Sistema de Cadastro  da SUFRAMA) que possibilitará a consulta automática da situação cadastral das  empresas  recebedoras (destinatárias) de mercadorias nacionais e estrangeiras. Os  interessados devem  enviar uma mensagem eletrôn ica para o email  cadastro@fucapi.br com o assunto WEB  SERVICE – SISTEMA DE CADASTRO,  contendo os seguintes dados no corpo da mensagem: 
+[[
+
+
+• CNPJ da empresa que utilizará o serviço   • Razão Social   • Nome do contato para informações técnicas   • CPF  • Telefones   • Email para receber informações técnicas 
+]]
+
+
+Clique aqui para voltar às opções  
+[[
+
+
+14. O que fazer se o cliente não estiver habilitado ou não possuir  cadastro?  Posso gerar o PIN? 
+]]
+
+
+Conforme art. 1 da Portaria SUFRAMA n.º 529/2006, todas as mercadorias  nacionais que  ingressam nos estados do AM, AC, RO, RR e nas cidades de Macapá  e Santana, no AP,  devem passar pelo controle da SUFRAMA, com a geração do  PIN:   "Art.1º Toda entrada de mercadoria nacional para Zona Franca de Manaus, Áreas  de  Livre  Comércio e Amazônia Ocidental fica sujeita ao controle e fiscalização da  Suframa que  desenvolverá ações para atestar o ingresso físico da mercadoria e o  seu internamento na área  incentivada." 
+[[
+
+
+A exceção geral é para os casos nos quais o cliente ( destinatário) não possui  inscrição  SUFRAMA, ou não está habilitado na data de emissão da nota fiscal,  conforme Art. 2, §2º,  ficando dispensada a emissão do PIN: 
+]]
+
+
+"A geração do PIN, pelo SINAL, somente se processará para empresa destinatária   cadastrada e de vidamente habilitada na Suframa, levando em consideração a data  de emissão  da nota fiscal." 
+[[
+
+
+Nestes casos específicos o fornecedor não deverá conceder descontos de  benefícios  fiscais aos clientes, e a nota fiscal poderá ser enviada sem o PIN. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+15. O que é o arquivo XML da SUFRAMA e como pode ser gerado? 
+]]
+
+
+O arquivo XML da SUFRAMA é um arquivo que o cliente deve preparar com as  informações  das notas fiscais que serão enviadas para as áreas incentiva das, para  que depois possa usar  este arquivo para importação para a base de dados da  SUFRAMA (no WS SINAL) e geração  do PIN. 
+[[
+
+
+Esse arquivo, também chamado de lote, pode ser gerado pelo SINAL 6.0 (disponível  para download ao acessar o WS SINAL), software gr atuito que a SUFRAMA  disponibiliza para  digitação dos dados da nota e geração do arquivo. 
+]]
+
+
+Uma alternativa ao processo de digitação é a Estrutura Própria, podendo o usuário  adequar  seu sistema, de acordo com layouts disponibilizados  pela SUFRAMA em   http:// www.sufra ma.gov.br/servicos_wssinal_xml. cfm, podendo o sistema da  empresa gerar  este arquivo automaticamente. 
+[[
+
+
+Clique aqui para voltar às opções   
+]]
+
+
+16. Para que serve o SINAL 6.0? 
+[[
+
+
+O SINAL 6.0 é o software disponibilizado gratui tamente pela SUFRAMA, para que as  empresas  remetentes realizem a geração do arquivo XML (lote) com os dados das  notas fiscais a serem  enviadas às áreas incentivadas, e pelas empresas  transportadoras, para geração do arquivo  XML com as informações do  conhec imento de transporte e manifesto de carga, que serão  associadas ao PIN  gerado pelo remetente, para apresentação à SUFRAMA. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+17. Como consigo realizar o download o software SINAL 6.0?    1. Acessar o m enu de serviços do Portal SUFRAMA: 
+]]
+
+
+http://www.suframa.gov.br/servicos.cfm 
+[[
+
+
+2. Selecionar a opção WS SINAL REMENTENTE – ACESSE AQUI O SISTEMA ou  WS SINAL: 
+]]
+
+
+http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/ 
+[[
+
+
+3. Informar o login (CNPJ) e senha do usuário; 
+]]
+
+
+4. Clicar sobre a imagem com o link para Download do SINAL 6.0; 
+[[
+
+
+5. Selecionar a opção SALVAR ou EXECUTAR, para baixar e instalar o ap licativo; 
+]]
+
+
+6. Caso a instalação não inicie imediatamen te, execute o arquivo de instalação  que  foi baixado; 
+[[
+
+
+7. Siga os procedimentos da tela, clicando em seguinte, ou avançar, até concluir a  instalação; 
+]]
+
+
+8. Selecione o arquivo de banco de dados: sinal600.mdb 
+[[
+
+
+Clique aqui para voltar às opções  
+]]
+
+
+18. Como usar o SINAL 6.0 para gerar lote (arquivo XML)? 
+[[
+
+
+PASSO 1: CADASTRAR AS EMPRESAS DA NOTA FISCAL NO SINAL 6.0 
+]]
+
+
+o Cadastrar o transportador no banco de dados local do SINAL 6.0, na opção   CADASTRO>TRANSPORTADOR; 
+[[
+
+
+o Cadastrar o remetente no banco de dados local do SINAL 6.0, na opção   CADASTRO>REMETENTE; 
+]]
+
+
+o Cadastrar o destinatário no banco de dados local do SINAL 6.0, na opção   CADASTRO>DESTINATÁRIO; 
+[[
+
+
+PASSO 2: GERAR LOTE COM AS INFORMAÇÕES DAS NOTA S FISCAIS 
+]]
+
+
+2.1 CRIANDO UM LOTE: 
+[[
+
+
+o Criar um novo arquivo para incluir os dados das notas fiscais:  CADASTRO>LOTE DE  NOTAS FISCAIS; 
+]]
+
+
+o Escolher a opção NOVO, para cadastrar um novo lote de notas fiscais;    o Preencher as informações do lote ("pacote" de informações , que será utilizado  para gera  o arquivo XML); 
+[[
+
+
+Observações sobre o preenchimento dos campos do lote: 
+]]
+
+
+o Cada lote de notas fiscais deverá conter um máximo de 50 notas fiscais,  emitidas  para um mesmo destinatário e transportadas pelo mesmo   Transportador; 
+[[
+
+
+o O número do lote é de livre escolha, e servirá para controle do remetente, e  deverá  conter até quatro caracteres; 
+]]
+
+
+o Selecione o tipo da nota fiscal; 
+[[
+
+
+o A UF de origem do lote é a mesma UF do remetente; 
+]]
+
+
+o Clique no botão de busca (imagem com o pequeno binóculo) p ara localizar  aquelas  informações das empresas que você cadastrou quando iniciou o uso  do SINAL 6.0; 
+[[
+
+
+o A data de emissão do lote é a data de seu preenchimento, e deve ser superior  ou igual à data de emissão da nota fiscal; 
+]]
+
+
+o A data de atualização é controlad a pelo sistema, e não pode ser   preenchida/alterada pelo usuário; 
+[[
+
+
+o  A situação do lote indica se o lote está Aberto (passível de edição) ou  Fechado  (finalizado e pronto para geração do arquivo XML); 
+]]
+
+
+o Não clique ainda em fechar no botão “FECHAR LOTE”. Este botão somente  será utilizado após terminar de digitar todos os dados de todas as notas  fiscais;   o Concluída a digitação dos dados do lote, clicar em SALVAR: será aberta a  tela de notas  fiscais, conforme o tipo selecionado na tela do lote; 
+[[
+
+
+2.2. DIGITANDO A N OTA FISCAL: 
+]]
+
+
+o Clicando na guia “Notas Fiscais Convencionais”, será possível inserir as               Informações  de cada nota fiscal; \
+[[
+
+
+Observações sobre o preenchimento dos campos: 
+]]
+
+
+o O campo de seleção Taxa Zero refere -se à isenção de pagamento de TSA  (Taxa d e Serviço Administrativo), conforme Portaria SUFRAMA n.º 529, de  28/11/2006, art igos 22, 23, 24, 28 e ANEXO III; 
+[[
+
+
+o  A Taxa de Serviço Administrativo (TSA) é uma taxa cobrada do destinatário  da mercadoria que está ingressando, cuja geração  é referente aos se rviços  de internamento e emissão da Declaração de Ingresso, prestados pela  SUFRAMA;  o O campo CFOP deverá ser preenchido de acordo com o que consta na nota  fiscal.Entretanto, caso haja mais de uma CFOP para a mesma nota fiscal,  deverão ser  informadas as out ras CFOPs no campo de Informações  Complementares da nota  fiscal; 
+]]
+
+
+o O campo “vl. Total Prod.” pode ser preenchido com um valor maior ou igual ao  do campo “vl. Total Nota”; 
+[[
+
+
+o O campo  “Série”  deverá ser preenchido com o numero (0) se caso a nota  fiscal for séri e única. 
+]]
+
+
+o Caso o valor total da nota seja diferente do valor total dos produtos, deverá  ser preenchido o campo de Informações Complementares com a justificativa  desta  diferença. Ex: ABATIMENTO ICMS 7%; 
+[[
+
+
+o Deve ser informado no campo “Transportador”, preferen cialmente, o  transportador  final da carga. Caso o remetente não saiba informar quem será  o transportador final  do lote, deverá informar os dados do transportador que  está retirando a carga no  estabelecimento do remetente, podendo ocorrer,  posterior à geraç ão do PIN, o  processo de redespacho ou transbordo entre  os transportadores; 
+]]
+
+
+o Se a mercadoria for enviada ao destinatário via Correios, deverá ser  informado no  campo Transportador o CNPJ do destinatário, que atuará no  processo comoTransportador do tipo Post al;
+[[
+
+
+o O preenchimento dos campos VL. ICMS, VL. FRETE, VL. SEGURO, VL.  OUTRASDESPESAS, VL. IPI, SUBSTITUIÇÃO TRIBUTÁRIA, GNRE,  VEÍCULO DETRANSPORTE, VOLUME DE TRANSPORTE,   REFATURAMENTE e  INFORMAÇÕES COPLEMENTARES não é  obrigatório; 
+]]
+
+
+2.3. DIGITANDO OS ITENS D A NOTA FISCAL: 
+[[
+
+
+o Concluída a digitação dos dados da nota fiscal, clique em SALVAR: será  aberta a  tela para digitação dos itens das notas fiscais; 
+]]
+
+
+o Na tela de itens, digite os dados de cada item da nota fiscal; 
+[[
+
+
+o Observações sobre o preenchimento dos campos: 
+]]
+
+
+ O campo código do produto recebe caracteres alfanuméricos; 
+[[
+
+
+ O código da NCM será validado com a informação de Taxa Zero indicada no    formulário de preenchimento das informações das notas fiscais; 
+]]
+
+
+ O preenchimento dos campos CLASSIFICAÇÃO FISCAL, ALÍQUOTA IPI,  ALÍQUOTA ICMS, SUBSTITUIÇÃO TRIBUTÁRIA e VALOR IPI é opcional; 
+[[
+
+
+ Para incluir um novo item, clique no botão novo, após ter salvo o último item  digitado. 
+]]
+
+
+2.4. FECHAR LOTE E GERAR O ARQUIVO XML: 
+[[
+
+
+o Após digitar todos os itens e salva -los, volte para a gui a do Lote e clique em   FECHAR LOTE; 
+]]
+
+
+o Após fechar o lote, ele estará disponível para geração do arquivo XML para  envio  à SUFRAMA; 
+[[
+
+
+o Acessar MANUTENÇÃO>GERAR ARQUIVO>LOTE e clicar em GERAR; 
+]]
+
+
+Observações: 
+[[
+
+
+ Existe a possibilidade de o remetente não informar o tr ansportador no lote,  para geração do PIN com o status “PIN – Sem Transportador”, seguindo os  seguintes  procedimentos: 
+]]
+
+
+ Ao preencher o lote de notas fiscais, na guia LOTES, deixar em branco a   informação do transportador; 
+[[
+
+
+ Na guia NOTAS FISCAIS CONVENCIONAIS , preencher as informações do transportador (o que está coletando a carga, mesmo que não esteja  cadastrado,  pois esta informação não será validada pelo WS SINAL); 
+]]
+
+
+ A geração do arquivo XML por meio de software de estrutura própria  deve  ser  adequada de acor do com o layout disponibilizado pela SUFRAMA, disponível  no link - Esquemas para estrutura própria (Modelos e especificações  disponíveis nos anexos  desta Apostila); 
+[[
+
+
+Clique aqui para voltar às opções  
+]]
+
+
+19. Existe uma forma de gera r o arquivo XML a partir do meu  sistema  próprio, evitando digitação? 
+[[
+
+
+Para remetentes e transportadores, existe uma opção de gerar o arquivo XML  diretamente em  seus softwares de emissão de documentos fiscais, evitando a  digitação de dados. Esse  procediment o pode ser realizado utilizando -se os layouts  abaixo e o DEID (Documento de  Especificação para Importação de Dados).   Download dos esquemas (XSDs) para empresas com Estrutura Própria:   - Nota Fiscal Convencional   - Nota Fiscal Eletrônica   - Manifesto / Conheci mento 
+]]
+
+
+Download de XMLs exemplos de Lotes de Nota Fiscal:   - Convencional   - Eletrônica   - Manifesto/Conhecimento    Instruções sobre a geração do XML em estrutura própria:   - Download do DEID (Documento de Especificação para Importação de Dados pelo  WS SINAL) 
+[[
+
+
+Observação: Para validar a estrutura do arquivo gerado, acesse o WS SINAL   (http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/ ) com o login e senha  da empresa representada e utilize a rotina Validador de Arquivos XML .  Para maiores informações sobre como gerar o arquivo. xml com estrutura própria,  entre em  contato com o Suporte Técnico do SINAL: 0800 701 85 85 / (92) 2127 - 3100 / sinal@fucapi.br / suporte0800@fucapi.br  
+]]
+
+
+Clique aqui para  voltar às opções 
+[[
+
+
+20. Como gerar o PIN? 
+]]
+
+
+PASSO 1: IMPORTAÇÃO DO ARQUIVO PARA O WS SINAL 
+[[
+
+
+1. Acessar  o WSSINAL: 
+]]
+
+
+http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/ 
+[[
+
+
+2. Seleci onar a opção IMPORTAR DADOS a partir do menu principal; 
+]]
+
+
+3. Selecionar um dos tipos para a importação (lote de NF convencional ou NF  eletrônica); 
+[[
+
+
+4. Clicar em PROCURAR e selecionar o arquivo de lote gerado, na pasta do SINAL  no seu  computador: 
+]]
+
+
+C :\Arquivos de programas \SINAL600 \ArquivosSUFRAMA \Lotes 
+[[
+
+
+5. Clicar no botão IMPORTAR: o sistema exibe uma mensagem de confirmação.  Selecione OK,  para prosseguir; 
+]]
+
+
+6. Após confirmar a operação, será exibida uma tela com a situação do progresso  da  importação do arquivo;  
+[[
+
+
+6. Se o arquivo importador não possuir nenhum erro será exibido na tela de situação  um botão  FINALIZAR;  
+]]
+
+
+7. Após clicar no botão FINALIZAR será exibida uma tela informando que o arquivo  foi importado com sucesso e um haverá link para a tela de importação de dados; 
+[[
+
+
+PASSO 2: GERAÇÃO DO PROTOCOLO DE INGRESSO DE MERCADORIA  NACIONAL – PIN
+]]
+
+
+1. Acessar o WS SINAL e selecionar a opção “Gerar PIN”;    2. A lista de lotes importados será exibida; 
+[[
+
+
+1. O Sistema exibe na tela os lotes pertencentes ao usuário que está logado ou  sendo  representado; 
+]]
+
+
+4. O usuário seleciona o lote que deseja para gerar o PIN (para gerar mais de um  PIN selecione vários Lotes);  
+[[
+
+
+2. O usuário seleciona a opção GERAR PIN; 
+]]
+
+
+3. Caso o lote não possua erros, uma tela de confirmação será exibida; 
+[[
+
+
+Clique aqui para voltar às opções  
+]]
+
+
+21. Como consultar e imprimir o PIN? 
+[[
+
+
+PASSO 1 - CONSULTAR A SITUAÇAO DO PIN: 
+]]
+
+
+1. Selecione a opção PIN; 
+[[
+
+
+2. O sistema exibe a tela de CONSULTAR PIN; 
+]]
+
+
+3. Informo um período para pesquisa;  
+[[
+
+
+4. Selecione a opção  PESQUISAR;  
+]]
+
+
+5. Será exibida uma lista com todos os PINs gerados para a empresa logada;  
+[[
+
+
+Observações:  
+]]
+
+
+Na consulta de PIN, está disponível, na coluna “Situação de Processamento”, o  status do  PIN no WS SINAL, podendo ser uma das seguintes indicações prin cipais:  
+[[
+
+
+ PIN – Sem transportador: O PIN está aguardando que o destinatário ou o  remetente  indiquem quem será o transportador da mercadoria, ou que o  próprio transportador se  associe, por meio da leitura do código contido no  Relatório de Associação Automát ica, gerado pelo remetente;  
+]]
+
+
+ PIN – Aguardando dados de carga: O PIN está aguardando que o  transportador  acesse o WS SINAL e associe conhecimentos de transportes às  notas fiscais, e associe  o PIN a um Manifesto de Carga, finalizando o PIN; 
+[[
+
+
+ PIN – Com dados  de carga associados: O transportador já associou os   conhecimentos de transportes às notas fiscais, e associou o PIN a um  Manifesto de  Carga, mas ainda não clicou no botão “FECHAR MANIFESTO”;  
+]]
+
+
+ PIN – Aguardando Recepção: O PIN já foi completado pelo transp ortador  com os  dados de carga, e está aguardando apresentação à SUFRAMA, que deverá ser  realizada pelo transportador, em um dos postos centralizadores de  vistoria da  SUFRAMA, de acordo com a área de destino da mercadoria;    PIN – Aguardando Vistoria: O PIN j á foi recebido pela SUFRAMA, mas a  vistoria física  da mercadoria ainda não foi realizada; 
+[[
+
+
+ PIN – Vistoriado: A mercadoria acobertada pelas notas fiscais que constam  no PIN foi  vistoriada pela SUFRAMA. 
+]]
+
+
+A partir do momento em que o sistema exibe a mensagem  PIN – Vistoriado, a  situação  do internamento das notas fiscais poderá ser verificada pelas empresas  envolvidas no  processo (remetentes, transportadoras e destinatárias) no link -  Consultas On -line, disponível no menu de Serviços do Portal SUFRAMA .
+[[
+
+
+PASSO2  - IMPRIMIR O PIN: 
+]]
+
+
+1. Clique no número do PIN desejado;  
+[[
+
+
+2. Será exibida uma tela com todas as informações do PIN, que podem ser  detalhadas até o  nível de cada nota fiscal;  
+]]
+
+
+3. Clique no botão IMPRIMIR: será gerado automaticamente um arquivo .pdf  conten do o PIN  para impressão. 
+[[
+
+
+Observações: 
+]]
+
+
+ Para visualizar o PIN para impressão, é necessário que no computador do  usuário esteja  instalado o software Adobe PDF Reader;  
+[[
+
+
+ Após a geração do PIN, a parte do processo de internamento que acabe ao  remetente  da mer cadoria destinada às áreas incentivadas administradas pela  SUFRAMA está  concluída;  
+]]
+
+
+ Uma via do PIN impresso (ou o código de barras do PIN, ou simplesmente o  número do  PIN) deverá ser repassada ao transportador, acompanhada da  mercadoria e da nota  fiscal;  
+[[
+
+
+ Se for necessário cancelar um PIN gerado, esta opção está disponível  também no link  PIN.
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+22. Depois que gerei o PIN, o que devo fazer? 
+]]
+
+
+Após a geração do PIN, a empresa remetente deverá infor mar ao transportador o  número do  PIN ao transportador, para que possa completá -lo com os dados de  carga (conhecimento de  transporte e manifesto de carga).  Além disso, o remetente possui rotinas de acompanhamento da situação do PIN, e  poder  verificar a situ ação de todas as suas notas, no Sistema de Consultas Online,  em http://www.suframa.gov.br/servicos/saa 
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+23. Como gerar o PIN sem informar que m é o transportador do PIN? 
+[[
+
+
+O WS SINAL permite a geração de PINs sem indicar quem será o transportador de   mercadoria , ficando seu status inicial como PIN – Sem Transportador. Entretanto,  para que o  PIN possa ser completando com os dados de carga, é necess ário que  um transportador seja  indicado para o PIN. 
+]]
+
+
+Para indicar um transportador para um PIN gerado Sem Transportador, remetentes  e destinatários possuem em seu perfil a rotina Associar PIN a Transportador, para  localizarem o  PIN e indicarem o transporta dor. Entretanto, para “automatizar” esta  indicação, foi  disponibilizada também a rotina Associação Automática de PIN –  Imprimir Relatório. 
+[[
+
+
+Esta rotina permite ao usuário localizar um PIN com o status PIN – Sem  Transportador e  gerar um relatório com um cód igo de barras, que poderá ser lido por  qualquer transportador,  em rotina própria do seu módulo, para associar -se ao PIN 
+]]
+
+
+1. Ao preencher o lote de notas fiscais, na guia LOTES, deixar em branco a  informação do  transportador;  
+[[
+
+
+2. Na guia NOTAS FISCAIS CONV ENCIONAIS, preencher as informações do  transportador (o  que está coletando a carga, mesmo que não esteja cadastrado, pois  esta informação não será  validada pelo WS SINAL);  
+]]
+
+
+3. Ao importar o lote e gerar o PIN, o PIN terá status inicial PIN – Sem  Transport ador.   
+[[
+
+
+4. Acessar a rotina “Associação Automática de PIN - Imprimir Relatório”, localizar o  PIN gerado,  selecioná -lo e clicar no botão GERAR RELATÓRIO.   
+]]
+
+
+5. Salve o arquivo do relatório gerado, e então o imprima, para repassar ao  transportador.   Dessa f orma, qualquer transportador que receber a mercadoria  durante o trajeto até o destino  poderá associar -se ao PIN que você gerou, para  finalizá -lo. 
+[[
+
+
+Clique aqui para voltar às opções     
+]]
+
+
+24. Como cancelar um PIN gerado?  
+[[
+
+
+Após a ger ação do PIN, caso seja necessário cancelá -lo, o fornecedor somente  poderá fazê -lo enquanto o PIN estiver com o status PIN - AGUARDANDO DADOS  DE CARGA.      Procedimentos:   
+]]
+
+
+1. Acessar a rotina PIN;   2. Informar um parâmetro para busca (número do PIN ou perío do, por exemplo);   3. Clicar em pesquisar;   4. Marcar o PIN que se deseja cancelar;   5. Clicar em CANCELAR PIN.  
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+ 
+[[
+
+
+25. Como alterar um PIN gerado? 
+]]
+
+
+Após a geração do PIN, caso seja necessário alter ar alguma informação, o PIN  deverá ser  CANCELADO . O usuário então deverá editar o lote , corrigir o que for  necessário, importar o  arquivo novamente, e gerar novo PIN .
+[[
+
+
+Clique aqui para voltar às opções      26. Como editar um lote par a correção / alteração de dados? 
+]]
+
+
+Procedimentos para edição de um lote no SINAL 6.0 (para correção ou alterações): 
+[[
+
+
+1. No SINAL 6.0, entrar em CADASTRO>LOTES DE NOTAS FISCAIS;   2. Clicar no botão localizar;   3. Selecionar seu lote e clicar em OK;   4. Clicar d uas vezes sobre o lote (na faixa azul);   5. Alterar ou corrigir o que for preciso;   6. Clicar em Salvar;   7. Voltar na guia Lote e clica em FECHAR LOTE;   8. Entrar em MANUTENÇÃO>GERAR ARQUIVO>LOTE;   9. Gerar o arquivo XML novamente; 
+]]
+
+
+Observação: O número do lot e é o único campo que não pode ser modificado.   Depois de realizar as alterações e gerar o arquivo novamente, você pode deverá  importar o  arquivo no WS SINAL .
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+27. Como cancelar um lote que foi im portado para o WS SINAL , mas   o PIN  não foi gerado? 
+[[
+
+
+Após a importação do lote para o WS SINAL, se for necessário cancelar o lote   enviado, antes  da geração do PIN, o fornecedor somente poderá fazê -lo enquanto o  lote estiver com o status  IMPORTADOR. 
+]]
+
+
+Procedi mentos:    1. Acessar o WS SINAL;   2. Acessar a rotina LOTE;   3. Informar um parâmetro para busca (número do LOTE ou período, por exemplo);   4. Clicar em pesquisar;   5. Marcar o LOTE que se deseja cancelar;   6. Clicar em CANCELAR LOTE(S). 
+[[
+
+
+Se o LOTE estiver com o  estado LOTE PROCESSADO, significa que o PIN já foi  gerado e,  neste caso, só será possível cancelar o lote cancelando o PIN .
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+   28. Como alterar o transportador indicado no PIN? 
+]]
+
+
+Após a geração do  PIN, o fornecedor da mercadoria ou o destinatário podem trocar  o transportador do PIN, enquanto este PIN ainda estiver com o status PIN –  AGUARDANDO  DADOS DE CARGA. 
+[[
+
+
+Procedimentos para alteração do Transportador do PIN: 
+]]
+
+
+Retirar o Transportador   1. Acessar  o WS SINAL;   2. Acessar a rotina Desassociar PIN;   3. Informar um parâmetro para busca;   4. Clicar em Pesquisar;   5. Selecionar o PIN.   6. Clicar em Desassociar :
+[[
+
+
+Indicar novo o Transportador   1. Acessar o WS SINAL;   2. Acessar a rotina Associar PIN a Transporta dor;  3. Informar um parâmetro para busca;   4. Clicar em Pesquisar;   5. Selecionar o PIN.   6. Informar o CNPJ do transportador;   7. Clicar em Associar. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+ 
+]]
+
+
+29. Como obter ajuda e suporte? 
+[[
+
+
+Serviço de A tendimento e Suporte ao Usuário da CGMEC   Telefone de Suporte: 0800 701 85 85 
+]]
+
+
+E-mails de Suporte: 
+[[
+
+
+SUPORTE0800@FUCAPI.BR – SINAL@FUCAPI.BR     Suporte Operacional ao WS SINAL e SINAL 6.0   Para obter suporte sobre como utili zar o sistema, como preencher suas telas, e  dúvidas  diversas sobre o processo de transmissão de dados de documentos fiscais  à SUFRAMA. 
+]]
+
+
+E-mail: Dúvidas - duvidassinal@suframa.gov.br 
+[[
+
+
+ e Técnico ao WS SINAL e SINAL 6.0   Para obter suporte sobre problemas técnicos diversos relacionados ao novo WS  SINAL e  SINAL 6.0. 
+]]
+
+
+E-mail: suporte0800@fucapi.br / sinal@fucapi.br 
+[[
+
+
+ Suporte Internamento   Para obter suporte e orientações diversas sobre o processo de internamento de   mercadorias nacionais nas áreas incentivadas administradas pela SUFRAMA .
+]]
+
+
+E-mail: mercadorianacional@suframa.gov.br 
+[[
+
+
+ Suporte Retificação   Para obter suporte e orienta ções diversas sobre o processo o novo Sistema de  retificação  de dados transmitidos com erro via sistema SINAL. 
+]]
+
+
+E-mail: codin@suframa.gov.br 
+[[
+
+
+ Suporte Vistoria Técnica / SINAL 5.0   Para obter suporte e orientações di versas sobre o processo de internamento de   mercadorias  nacionais (não vistoriadas à época de seu ingresso) por meio de  Vistoria Técnica. 
+]]
+
+
+E-mail: Vistoria Técnica - vistoriatecnica@suframa.gov.br / SINAL 5.0 -  sinal@fuca pi.br  Clique aqui para voltar às opções 
+[[
+
+
+30. Descrição de Rotinas do WS SINAL. 
+]]
+
+
+ROTINAS DISPONÍVEIS PARA O PERFIL DE REMETENTE DO WS SINAL: 
+[[
+
+
+ Alterar Senha    Associar PIN a Transportador    Associar/Desassociar Representante Legal    Associação Automática de PIN - Imprimir Relatório     Consulta de Erros da Geração de PIN    Consultar Relatórios de Associação Automática    Desassociar PIN    Gerar PIN     Importar Dados    Lote  Nota Fiscal    P IN   Validador de Arquivos XML 
+]]
+
+
+4.1. DESCRIÇÃO DAS ROTINAS 
+[[
+
+
+1. Alterar  Senha 
+]]
+
+
+1.1 Permite ao usuário trocar a senha de acesso ao WS SINAL. 
+[[
+
+
+2. Associar PIN a Transportador 
+]]
+
+
+2.1 Permite ao usuário localizar um PIN com o status PIN – SEM   TRANSPORTADOR e indicar o CNPJ de um transportador par associação ao PIN. 
+[[
+
+
+2.2 Após realiz ação deste procedimento, o PIN fica com o status PIN –  AGUARDANDO DADOS DE CARGA; 
+]]
+
+
+2. Associar/Desassociar Representante Legal 
+[[
+
+
+3.1 Permite ao usuário localizar uma pessoa física ou jurídica (previamente   cadastrada junto à SUFRAMA como Representante Legal), p ara associá -la como   Representante Legal. 
+]]
+
+
+3.2 Com esta associação, o remetente está autorizando, via sistema, que este   usuário possa utilizar suas rotinas do WS SINAL para transmitir dados em nome do   fornecedor; 
+[[
+
+
+3.3 Esta rotina também permite a desassocia ção do Representante Legal, que  passa  a não mais visualizar as rotinas que o fornecedor lhe havia atribuído; 
+]]
+
+
+3.4 O Representante Legal somente pode representar a empresa junto à SUFRAMA   para uso do WS SINAL, não tendo nenhuma atribuição legal, para fins j urídicos, pois   mesmo que a empresa autorize um Representante Legal a utilizar o sistema, o   remetente  continua sendo responsável por tudo o que está sendo transmitido à   SUFRAMA. 
+[[
+
+
+3. Associação Automática de PIN - Imprimir Relatório 
+]]
+
+
+4.1 Esta rotina permite ao usuário localizar um PIN com o status PIN – Sem  Transportador e gerar um relatório com um código de barras, que poderá ser lido por   qualquer transportador, em rotina própria do seu módulo, para associar -se ao PIN; 
+[[
+
+
+4.2 Acessando esta rotina, o usuário pode  localizar o PIN gerado, selecioná -lo e  clicar no botão GERAR RELATÓRIO; 
+]]
+
+
+4.3 O sistema gera um Relatório no formato pdf, que deve ser impresso e repassado   ao transportador. Dessa forma, qualquer transportador que receber a mercadoria   durante o trajeto até  o destino poderá associar -se ao PIN que o usuário remetente   gerou, para completá -lo com os dados de carga. 
+[[
+
+
+4. Consulta de Erros da Geração de PIN    5.1 Quando o usuário utiliza a rotina GERAR PIN, e o PIN não é gerado, significa   que foi identificado algum er ro durante a geração do PIN, a partir do lote selecionado   pelo usuário; 
+]]
+
+
+5.2 Esta rotina permite pesquisar o lote selecionado para geração do PIN e verificar   qual foi o erro identificado pelo sistema durante a geração do PIN; 
+[[
+
+
+5.3 OBS.: Este lote pode ser cancelado na rotina LOTE, para ser corrigido e   importado  novamente. 
+]]
+
+
+5. Consultar Relatórios de Associação Automática 
+[[
+
+
+6.1 Esta rotina permite consultar, imprimir ou cancelar os Relatórios de Associação   Automática gerada pelo remetente .
+]]
+
+
+6. Desassociar PIN 
+[[
+
+
+7.1 Permite ao usuário localizar um PIN e retirar o transportador que foi indicado  pelo remetente. 
+]]
+
+
+7.2 Após realização deste procedimento, o PIN fica com o status PIN – SEM   TRANSPORTADOR ;
+[[
+
+
+8. Gerar PIN 
+]]
+
+
+8.1 Esta rotina permite ao usuário visualizar lotes que foram i mportados para o WS   SINAL sem erros, e selecioná -los para geração do Protocolo de Ingresso de   Mercadoria Nacional – PIN.
+[[
+
+
+9. Importar Dados 
+]]
+
+
+9.1 Esta rotina permite ao usuário remetente importar para a base de dados da   SUFRAMA os arquivos XML que foram gerado s com as informações das notas   fiscais (convencionais ou eletrônicas); 
+[[
+
+
+9.2 Caso seja identificado pelo sistema algum erro, neste momento, o sistema   apontará os erros e o usuário poderá editar e corrigir o arquivo, para enviar   novamente. 
+]]
+
+
+10. Lote
+[[
+
+
+10.1 Esta rotin a permite consulta os lotes que o usuário importou para o  WS SINAL; 
+]]
+
+
+10.2 Todos os lotes que ainda não foram utilizados para geração de PINs,  podem  ser cancelados; 
+[[
+
+
+10.3 Lotes que já foram utilizados para geração de PINs só podem ser  cancelados  se o PIN fo r cancelado .
+]]
+
+
+11. Nota Fiscal    11.1 Permite ao usuário  localizar uma nota fiscal, para verificar se foi  transmitida  pelo WS SINAL e seu status de processamento pela SUFRAMA.   12. PIN
+[[
+
+
+12.1 Permite ao usuário  localizar um PIN, para verificar seu status de   proces samento pela SUFRAMA, e imprimi -lo, se necessário. 
+]]
+
+
+13. Validador de Arquivos XML 
+[[
+
+
+13.1 Esta rotina é uma ferramenta para auxiliar os profissionais de  informática das  empresas que optarem por gerar o arquivo XML em seus sistemas  próprios  (estrutura própria), de aco rdo com os layouts e especificações fornecidos  pela  SUFRAMA em   http://www.suframa.gov.br/servicos_mercadorianacional_esquemas.cfm ;
+]]
+
+
+13.2 O usuário deve submeter o arquivo à ro tina, para que seja validada a  estrutur a  do arquivo; 
+[[
+
+
+13.2 Caso a rotina identifique erros na estrutura do arquivo, indicará ao  usuário qual  o erro identificado, para correção. 
+]]
+
+
+Clique aqui para voltar às opções 
+[[
+
+
+31. Descrição de Rotina s de Consultas Online para o Remetente. 
+]]
+
+
+ROTINAS DE ACOMPANHAMENTO (CONSULTAS ONLINE) 
+[[
+
+
+Após a realização do processo de ingresso da mercadoria na Área Incentivada de  destino,  que é caracterizado principalmente pela vistoria realizada pela SUFRAMA, o  fornec edor verificará, no WS SINAL, que o PIN se encontra com o status PIN –  Vistoriado.   Para verificar a situação das notas fiscais, após a realização da vistoria pela  SUFRAMA,  foi disponibilizado o sistema de Consultas Online, que o usuário poderá  acessar com o mesmo  login e senha do WS SINAL, conforme procedimentos  abaixo: 
+]]
+
+
+1. Acessar a opção Serviços do Portal SUFRAMA;   http://www.suframa.gov.br/servicos.cfm  
+[[
+
+
+2. Na seção do remetente, acessar o link Consultas Online :  http://www.suframa.gov.br/servicos/saa  
+]]
+
+
+3. Informar o login (CNPJ, sem pontos e barras) e a senha (a mesma do WS   SINAL);  
+[[
+
+
+o Clicar no ícone das Consultas do Sistema Nacional. 
+]]
+
+
+o As seguintes rotina s estarão disponíveis: 
+[[
+
+
+REMETENTE 
+]]
+
+
+Declaração de Ingresso    Consultar dados de Vistoria por PIN 
+[[
+
+
+Notas Fiscais com Pendências - Fornecedor   Sit. de Notas Fiscais – Fornecedor  
+]]
+
+
+Sit. de Notas Fiscais - Fornecedor e Emissão  
+[[
+
+
+REMETENTE NFE  
+]]
+
+
+Consulta de NFE – Remetente  
+[[
+
+
+DESCRIÇÃO DAS ROTINAS 
+]]
+
+
+ Declaração de Ingresso 
+[[
+
+
+o Esta rotina permite ao usuário remetente visualizar a Declaração de  Ingresso  de uma nota fiscal já internada pela SUFRAMA.  
+]]
+
+
+ Consultar dados de Vistoria por PIN 
+[[
+
+
+o Esta rotina permite ao usuário cons ultar se um PIN foi vistoriado pela   SUFRAMA, retornando ao usuário a data, hora e local da vistoria.  
+]]
+
+
+ Notas Fiscais com Pendências – Fornecedor 
+[[
+
+
+o Esta rotina permite ao usuário remetente visualizar a lista de notas  fiscais que  estão pendentes de internamen to na SUFRAMA e que,  consequentemente, não  possuem Declaração de Ingresso; 
+]]
+
+
+o Para regularização destas notas fiscais, o usuário deverá entrar em  contato  com a  Coordenação de Internamento – CODIN:  codin@suframa.gov.br 
+[[
+
+
+ S it. de Notas Fiscais – Fornecedor 
+]]
+
+
+o Esta rotina permite ao usuário remetente visualizar a situação de  notas fiscais  no sistema de internamento na SUFRAMA, informando como  parâmetro de  busca somente o CNPJ do fornecedor.  
+[[
+
+
+ S it. de Notas Fiscais - Forne cedor e Emissão  
+]]
+
+
+o Esta rotina permite ao usuário remetente visualizar a situação de  notas fiscais  no sistema de internamento na SUFRAMA, informando como  parâmetro de  busca somente o CNPJ do fornecedor e a data de emissão de  uma nota fiscal  específica ou um  período, para exibir uma listagem.  
+[[
+
+
+Clique aqui para voltar às opções 
+]]
+
+
+ 32. PRINCIPAIS MENSAGENS DE ERRO E PROBLEMAS, COM SUAS   SOLUÇÕES. 
+[[
+
+
+Abaixo foram listadas algumas da s principais mensagens de erro e problemas, com  suas  soluções. Clique sobre uma das mensagens para ver a resposta. 
+]]
+
+
+1. Ao tentar acessar o sistema na página da SUFRAMA, até mesmo a página de  cadastro  sempre diz a mensagem: "A página não pode ser exibida" (Erro comum no   principalmente no prim eiro acesso) 
+[[
+
+
+2. No SINAL 6.0, quando clico para localizar (no binóculo) o Remetente,  Transportador ou  Destinatário, o sistema mostra a tela vazia, mas quando volto na  opção de cadastro, o  sistema informa: "Registro Já Cadastrado." 
+]]
+
+
+3. No SINAL 6.0, no preenchimento do lote: "O campo [Data de Emissão] informado  é inválido" 
+[[
+
+
+4. Não sei o que selecionar no campo TAXA ZERO; 
+]]
+
+
+5. No SINAL 6.0, no preenchimento dos itens das  notas fiscais: "O campo [NCM] é   requerido. Preencha o campo" 
+[[
+
+
+6. No SINAL 6.0, ao clicar em FECHAR LOTE: " O campo vl. Total Prod. da nota [ ]  não confere com o somatório dos valores de seus itens." 
+]]
+
+
+7. No SINA L 6.0, no preenchimento da nota fiscal, ao tentar localizar o Remetente  (no binóculo), o sistema mostra a tela vazia. 
+[[
+
+
+8. Ao tentar acessar o WS SINAL: "Dados de login incorretos";  
+]]
+
+
+9. Ao tentar acessar o WS SI NAL: "Usuário Bloqueado";   
+[[
+
+
+10. Ao tentar acessar o WS SINAL: "Usuário não tem acesso ao sistema";  
+]]
+
+
+11. Utilizando o WS SINAL: "Usuário não autenticado ou sessão expirada!";  
+[[
+
+
+12. A o tentar acessar o WS SINAL: "Usuário não tem acesso à rotina especificada!";  
+]]
+
+
+13. A o tentar acessar o WS SINAL: "Transportador bloqueado na base de dados da   SUFRAMA! Por favor, entre em contato com a SUFRAMA (CODOC ou CGUDE). "
+[[
+
+
+14. Erro durante a validação dos dados; O lote já foi cadastrado para esse  Destinatário; A  Nota Fiscal Nº < > já existe na Base de Dados do Suframa; Os dados  não foram  importados par a a base de dados do SUFRAMA. Po r favor corri ja o  arquivo e tente  novamente. 
+]]
+
+
+15. Erro durante a validação dos dados; "A EMPRESA DESTINATÁRIA ESTÁ COM  A SITUAÇÃO CADASTRAL IRREGULAR NA DATA DE EMISSÃO DA NOTA  FISCAL"     16. Erro durante a validação d os dados: O Código NCM do Item < > da Nota Fiscal  Nro. <  > não é um NCM Taxa Zero.  
+[[
+
+
+17. Erro durante a validação do formato do arquivo: Arquivo não formatado  corretamente. O  padrão XML do arquivo não corresponde ao padrão definid o pela  SUFRAMA . 
+]]
+
+
+18. No SINAL 6.0: "Estou digitando os dados da nota fiscal , mas  não consigo  visualizar o  campo Valor Total da Nota Fiscal ”;  
+[[
+
+
+19. No SINAL 6.0: Erro: Conexão de Banco de Dados; Erro: In valid Filename;  
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro      32.1. Ao tentar acessar o sistema na página da SUFRAMA, até mesmo a página  de cadast ro sempre diz a mensagem: "A página não pode ser exibida" (Erro  comum no  principalmente no primeiro acesso) 
+]]
+
+
+Você deve solicitar ao setor de informática da sua empresa que sejam liberadas as  portas  7778, 7779, 7780 e 8250 e endereço de IP 200.242.70.146 , junto no seu  provedor de internet  ou firewall .
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro  
+[[
+
+
+32.2. No SINAL 6.0, quando clico para localizar (no binó culo) o Remetente,   Transportador ou Destinatário, o sistema mostra a tela vazia, mas quando  volto na  opção de cadastro, o sistema informa: "Registro Já Cadastrado." 
+]]
+
+
+Verifique se a máquina na qual foi instalado o SINAL 6.0 atende a todos os pré - requisitos  mínimos para instalação do software, principalmente  o componente  MDAC, conforme  instruções abaixo (disponíveis no SINAL 6.0 em SOBRE>SOBRE  A INSTALAÇÃO DO SINAL  6.0); 
+[[
+
+
+Configuração mínima para o SINAL 6.0:  
+]]
+
+
+• Pentium 166 Mhz;   • Memória RAM de 32 Mb dispo nível para o usuário;   • Monitor Color de 14 polegadas, SVGA;   • Resolução Mínima de Máquina: 1024x768.   • Sistema Operacional Windows Família 98/XP/2000   • MDAC(Microsoft Data Access Compone ntes) 2.5  
+[[
+
+
+Observação: 
+]]
+
+
+• No Windows XP com Service Pack 2, Windows 2000 Server/Professional com  Service  Pack 4, o MDAC já está instalado. Caso necessário, você deve somente  atualizar a  versão (somente se for anterior à versão 2.5);    • Link sugerido para download do MDAC:  http://www.fenix.com.br/mdac/mdac_typ.exe 
+[[
+
+
+• Para maiores informações acesse o menu SOBRE, do SINAL 6.0, na opção  SOBRE A  INSTALAÇÃO DO SINAL 6.0. 
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro 
+]]
+
+
+32.3. No SINAL 6.0, no preenchimento do lote: "O campo [Data de Emissão]  informado é  inválido" 
+[[
+
+
+Verifique se seu sistema operacional Windows está em inglês. Caso positivo, digite a  data no formato MM/DD/AAAA . Mesmo que seu sistema esteja em português,  verifique nas  configurações de data e hora, se o formato de data configurado está  como DD/MM/AAAA ou  MM/DD/AAAA. Caso o problema persista, verifique os dados  digitados. A data de emissão do  lote não pode ser inf erior à data de emissão do lote. 
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro 
+]]
+
+
+32.4. Não sei o que selecionar no campo TAXA ZERO    Taxa Zero é um benef ício concedido ao destinatário (recebedor) da mercadoria,   quando o  produto acobertado pela nota fiscal é um produto do gênero alimentício  destinado à  comercialização, desde que este produto conste na relação de produtos  do Anexo III a  Portaria SUFRAMA n.º 529/2006:    Portanto, quando concedido este benefício, o destinatário da mercadoria ficará  isento do  pagamento da TSA (taxa de serviço administrativo), que é cobrada pelo  serviço de  internamento e emissão da Declaração de Ingresso que é prestado pela  SUFRA MA.
+[[
+
+
+"Art.22 No caso de ingresso de gêneros alimentícios destinados à comercialização,   relacionados no ANEXO III desta Portaria, o valor a ser cobrado da TSA, fica  reduzido à zero,  conforme o disposto na Resolução nº. 003, de 7 de abril de 2000,  do Conselh o de Administração da Suframa. 
+]]
+
+
+Parágrafo único. “Para usufruto do benefício de redução, indicado no caput, a nota  fiscal deverá acobertar exclusivamente produtos classificados com os códigos de  NCM (posições e subposições) constantes no ANEXO III desta Po rtaria.”  (Portaria  SUFRAMA n.º 529/2006) 
+[[
+
+
+Portanto, de maneira simplificada, o SINAL está perguntando se a nota fiscal possui  SIM ou  NÃO os produtos acima listados.  
+]]
+
+
+Observação: 
+[[
+
+
+• O usuário somente deverá sinalizar TAXA ZERO como SIM se todos os produtos   da nota fiscal constatem na lista acima; 
+]]
+
+
+• Notas fiscais "mistas" não se enquadram como TAXA ZERO SIM. 
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro 
+[[
+
+
+32.5. No SINAL 6.0, no preenchimento dos itens das notas fiscais: "O campo  [NCM] é  requerido. Preencha o campo"  
+]]
+
+
+Na atual versão do SINAL 6.0 e layouts XML (última versão: 23/07/2007), todas as  vezes que o  usuário informar o campo TAXA ZERO como SIM, ser á obrigatório o  preenchimento do campo  NCM (Nomenclatura Comum do Mercosul), na guia ITENS  DAS NOTAS FISCAIS.  
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de e rro     32. 6. No SINAL 6.0, ao clicar em FECHAR LOTE: “O campo vl. Total Prod. da  nota [ ] não  confere com o somatório dos valores de seus itens."  
+[[
+
+
+Sempre que os valores dos campos Valor Total dos Produtos e Valor Total da  Nota forem  diferentes por algum  motivo, mesmo que por descontos de impostos,  descontos comerciais, ou mesmo por acréscimos, são  necessários  justificar essa  diferença preenchendo o campo  Informações Complementares, da guia NOTAS  FISCAIS CONVENCIONAIS, do SINAL 6.0.   Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro  32.7. No SINAL 6.0, no preenchimento da nota fiscal, ao tentar localizar o  Remetente (no  binóculo), o sistema mostra a tela vazi a. 
+[[
+
+
+Verifique a UF de Origem do lote que foi informada na guia LOTE, do SINAL  6.0, pois  deve ser a mesma da empresa remetente. Caso a UF da origem  que foi  informada seja  diferente da UF cadastrada para o remetente em  CADASTRO>Remetentes(Fornecedor), o  sistema não exibe os dados do remetente  para preencher as informações da nota fis cal. 
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro      32.8. Ao tentar ace ssar o WS SINAL: "Dados de login incorretos"; 
+]]
+
+
+Possível Problema: Senha ou login informados de forma incorreta. 
+[[
+
+
+Ações:   - Verificar se a caixa alta (tecla CAPS LOCK) está ativada;   - Verificar se está digitando a senha correta; 
+]]
+
+
+Cliqu e aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro      32.9. Ao tentar acessar o WS SINAL: "Usuário Bloqueado"; 
+]]
+
+
+Possível Problema: Usuário bloqueado por ter informado senha incorreta mai s de  três vezes. 
+[[
+
+
+Ações: 
+]]
+
+
+- Realizar os procedimentos disponíveis no link - Solução de Problemas com Login e  Senha  (http://www.suframa.gov.br/servicos_wssinal_senhas.cfm ) do menu de  serviços do Portal  SUFRAMA , ou seguir os procedimentos do item 11 deste Pas so a  Passo. 
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro     
+[[
+
+
+32.10. Ao tentar acessar o WS SINAL: "Usuário não tem acesso ao sistema"; 
+]]
+
+
+Possível Pro blema: Usuário ainda não se cadastrou como Remetente,  Transportador,  Destinatário ou Representante Legal.  
+[[
+
+
+Ações:   - Verificar se o CNPJ digitado está correto;   - Caso não possua cadastro, realizar o cadastro do WS SINAL nos links abaixo:    • Remetente:   http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/prepararCadastrarRem etenteAction.do?metodo=preparar    • Transportador:   http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/prepararCadastrarTran sportadorAction.do?metodo=preparar    • Representante L egal:   http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/prepararCadastrarRepr esentanteLegalAction.do?metodo=preparar    • Destinatário: Entrar em contato com a Coordenação de Cadastro:   cocad@suframa.gov.br 
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro 
+]]
+
+
+32.11. Utilizando o WS SINAL: "Usuário não autenticado ou sessão expirada!";  
+[[
+
+
+Possível Problema: Ao passa r mais de 5 minutos sem utilização do sistema este  efetua,  automaticamente, o logout.  
+]]
+
+
+Ações:   - Realizar novo procedimento de login no sistema a partir do link de acesso ao WS  SINAL:  http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/ 
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro 
+[[
+
+
+32.12. Ao tentar acessar o WS SINAL: "Usu ário não tem acesso à rotina  especificada!";  
+]]
+
+
+Possível Problema: Para garantia de segurança no sistema, as rotinas só estarão  acessíveis  de acordo com o perfil do usuário.  
+[[
+
+
+Ações:   - Entrar em contato com o Suporte Técnico: suporte0800@fucapi.br /  sinal@f ucapi.br / 0800  701 85 85 
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro 
+]]
+
+
+32.13. Ao tentar acessar o WS SINAL: "Transportador bloqueado na base de  dados  da SUFRAMA! Por favor, entre em contato com a SUFRAMA (CODOC ou  CGUDE).";  
+[[
+
+
+Possível Problema: A documentação necessário para confirmação / desbloqueio  de  cadastro  de transportador do WS SINAL não foi enviada à SUFRAMA, dentro do  prazo de 96 horas a  partir do momento em que o cadastro foi realizado .    Ações:   - Enviar à SUFRAMA a documentação listada no link – Documentos  para  Confirmação /  Desbloqueio de Cadastro   (http://www.suframa.gov.br/servicos_wssinal_docstrans.cfm ) do menu de serviços do  Portal SUFRAM A. 
+]]
+
+
+Observação:   O procedimento acima somente será obrigatório para empresa que tenham se  cadastrado  como transportador no WS SINAL, no link  
+[[
+
+
+http://alvaraes.suframa.gov.br:7778/PMNRecEViewController/prepararCadastrarTran sportadorAction.do?metodo=preparar   
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para volt ar às mensagens de erro 
+]]
+
+
+32.14. Erro durante a validação dos dados; O lote já foi cadastrado para esse   Destinatário; A Nota Fiscal Nº < > j á existe na Base de Dados do Suframa; Os  dados não  foram importados para a base de dados do SUFRAMA. POr favor  corrija o arquivo e  tente novamente.  
+[[
+
+
+Possível Problema:   - O lote que o usuário está tentando cadastrar já existe e já foi importado para a  base de dados  do WS SINAL;   - A nota fiscal para a qual se está tentando gerar o PIN já foi importada  anteriormente par a a base de dados da nota fiscal;  
+]]
+
+
+Ações: 
+[[
+
+
+- LOTE: digite novo lote, com numeração diferente. 
+]]
+
+
+- NOTA FISCAL: 
+[[
+
+
+Primeiramente, faça o seguinte procedimento: 
+]]
+
+
+1. Acesse o WS SINAL e entre na rotina LOTE;   2. Pesquise se esse lote está lá;   3. Verifique se a s ituação de processamento é PROCESSADO;   4. Caso positivo, verifique a DATA DE PROCESSAMENTO;   5. Acesse a rotina PIN;   6. Faça uma pesquisa pela data de processamento que você localizou antes;   7. O Sistema exibirá o PIN gerado para esse lote;   8. Clique sobre o número do PIN para confirmar se é este mesmo o que você  gerou; 
+[[
+
+
+Se tudo isso funcionar, possivelmente, você ou outro usuário da empresa, pode  ter importado o  lote e gerado o PIN. 
+]]
+
+
+Se você pesquisou  o lote e ele estava só como importado, basta acessar a r otina  GERAR  PIN, e ele estará  lá.   Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro 
+]]
+
+
+32.15. Erro durante a validação dos dados; "A EMPRESA DESTINATÁRIA EST Á  COM A  SITUAÇÃO CADASTRAL IRREGULAR NA DATA DE EMISSÃO DA NOTA  FISCAL "
+[[
+
+
+Possível Problema: Na data em que a nota fiscal foi emitida, a empresa  destinatária não  estava cadastrada ou não estava habilitada na SUFRAMA. 
+]]
+
+
+Ações: 
+[[
+
+
+- Emitir nova nota fiscal, com data de emissão na qual a empresa já esteja  habilitada. 
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro      32. 1 6. Erro durante a validação dos dados:  O Código NCM do Item < > da Nota  Fiscal  N ro. < > não é um NCM Taxa Zero. 
+]]
+
+
+Possível Problema: Quando o usuário digitou o arquivo no SINAL 6.0, na guia  NOTAS  FISCAIS CONVENCIONAIS , sinalizou  a opção TAXA ZERO como SIM.  Entretanto, o sistema  verificou que a  NCM do(s) item(s) da nota fiscal não estão de  acordo com a lista do Anexo III  da Portaria SUFRAMA n.º 529/2006 .
+[[
+
+
+Ações:   - Alterar os dados do lote, informando a opção de TAXA ZERO como NÃO, conforme   procedimentos  abaixo (também relacionados no item 26 des te Passo a Passo ): 
+]]
+
+
+Procedimentos para edição de um lote no SINAL 6.0 (para correção ou alterações):  
+[[
+
+
+1. No SINAL 6.0, entrar em CADASTRO>LOTES DE NOTAS FISCAIS;   2. Clicar no botão localizar;   3. Selecionar seu lote e clicar em OK;   4. Clicar duas vezes so bre o lote (na faixa azul);   5. Alterar ou corrigir o que for preciso;   6. Clicar em Salvar;   7. Voltar na guia Lote e clica em FECHAR LOTE;   8. Entrar em MANUTENÇÃO>GERAR ARQUIVO>LOTE;   9. Gerar o arquivo XML novamente;  
+]]
+
+
+Observação: O número do lote é o único  campo que não pode ser modificado.   Depois de realizar as alterações e gerar o arquivo novamente, você pode deverá  importar o  arquivo no WS SINAL . 
+[[
+
+
+ Observação: 
+]]
+
+
+Para maiores informações sobre TAXA ZERO, acesse o item 32.4 deste Passo a  Passo .
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro      32.17. Erro durante a validação do formato do arquivo: Arquivo não formatado   corretamente. O padrão XML do arqui vo não corresponde ao padrão definido  pela SUFRAMA.  
+[[
+
+
+Possível Problema: O arquivo não está no formato exigido pela SUFRAMA. Este  erro é  comum em casos nos quais a empresa tem  Estrutura Própria e está  importando o arquivo  gerado diretamente pelo seu sistem a. Para usuários do SINAL  6.0, o arquivo pode ter sido  corrompido no momento da geração. 
+]]
+
+
+Ações: 
+[[
+
+
+- Usuários do SINAL 6.0:   - Editar o lote (Ex.: Redigitar a data de emissão do lote), Salvar, FECHAR LOTE, e  gerar o  arquivo novamente (procedimentos detalhado s no item 26 deste Passo a  Passo ); 
+]]
+
+
+- Usuários de Estrutura Própria   - Solicitar ao setor de informática da empresa, ou desenvolvedor do aplicativo, que  verifique o  formato do arquivo XML.    - (Para maiores informações sobre estrutura própria, acesse o item  19 deste Passo a  Passo) . 
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro      32.18. No SINAL 6.0: "Estou digitando os dados da nota fiscal , mas  não  consi go visualizar o campo Valor Total da Nota Fiscal";  
+[[
+
+
+Possível Problema: A resolução do monitor do usuário está inferior à resolução  mínima  exigida para uso do SINAL 6.0 
+]]
+
+
+Ações:   - Ajustar a resolução do monitor (configurações de vídeo) para 1024x768 pixels,  no  Painel de  Controle do computador.  
+[[
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+]]
+
+
+Clique aqui para voltar às mensagens de erro     
+[[
+
+
+ 32.19. No SINAL 6.0: Erro: Conexão de Banco de Dados; Erro: Invalid Filename;  
+]]
+
+
+Possível Problema: A máquina onde o SINAL 6.0 foi instalado não atende à  configurações  mínimas para uso do software. 
+[[
+
+
+Ações:   - Acessar o menu SOBRE, do SINAL 6.0, na opção SOBRE A INSTALAÇÃO DO  SINAL 6.0.  
+]]
+
+
+Clique aqui para voltar às opções do Passo a Passo 
+[[
+
+
+Clique aqui para voltar às mensagens de erro      Passo a Passo WS SINAL - Módulo Remetente 
+]]
+
+
+Última atualização: 27 /01/2009 
+[[
+
+
+Mais dúvidas? FAQ Online disponível em:   http://www.s uframa.gov.br/suframa_faleconosco.cfm   Caso sua dúvida não tenha sido esclarecida com esse material, entre em contato  com duvidassinal@suframa.gov.br , identificando -se com nome, empresa, e -mail e  telefone para  contato.  ]]

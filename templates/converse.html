@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        /* CSS styles for the chat interface */
+        .container {
+            background-color: #e5e4f3;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        #chat-container {
+            padding: 10px;
+            height: 70vh;
+            overflow-y: auto; /* enable vertical scrolling */
+        }
+
+        #input-container {
+            padding: 10px;
+            height: 30vh; /* Set the height of the input container to 15% of viewport height */
+            display: flex;
+            align-items: center;
+        }
+        #message-input {
+            width: calc(100% - 60px);
+            margin-right: 10px;
+            resize: none; /* Disable resizing */
+            height: 96%; /* Set height */
+        }
+        #send-button {
+            width: 100px;
+            padding-left: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="chat-container">
+        <div id="chat-messages"></div>
+    </div>
+    <div id="input-container">
+        <textarea id="message-input" placeholder="Type your message here"></textarea>
+        <button id="send-button" class="btn waves-effect waves-light" type="submit" name="action" onclick="sendMessage()">Send
+            <i class="material-icons right">send</i>
+        </button>
+    </div>
+
+    <!-- Materialize JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    
+    <script>
+        function sendMessage() {
+            var messageInput = document.getElementById('message-input');
+            var message = messageInput.value.trim();
+            
+            if (message !== '') {
+                // Append the message to the chat-messages container
+                var chatMessages = document.getElementById('chat-messages');
+                var messageElement = document.createElement('div');
+                messageElement.innerHTML = message.replace(/\n/g, '<br>'); // Replace line breaks with <br> tags
+                chatMessages.appendChild(messageElement);
+                
+                // Clear the message input
+                messageInput.value = '';
+            }
+        }
+    </script>
+</body>
+</html>
